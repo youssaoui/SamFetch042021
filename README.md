@@ -4,7 +4,7 @@ A simple Web API to download Samsung Stock ROMs from Samsung's own Kies servers 
 
 I recommend hosting your own instance, as you will have more control over it and you will have own private instance. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ysfchn/SamFetch)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youssaoui/SamFetch042021)
 
 After typing your app name, deploy the app and your instance will be ready! Head over to `https://<app_name>.herokuapp.com/` and you will redirected to the docs, and it will show how to use the SamFetch.
 
